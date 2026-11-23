@@ -57,4 +57,4 @@ npm run build   # build de produção
 
 ## 👤 Autor
 
-**Yuri Machado**: [LinkedIn](https://linkedin.com/in/SEU-USUARIO) · [GitHub](https://github.com/Yuri-dev19)
+**Yuri Machado**: [LinkedIn](https://www.linkedin.com/in/yuri-machado-tech/) · [GitHub](https://github.com/Yuri-dev19)
